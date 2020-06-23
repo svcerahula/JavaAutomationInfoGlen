@@ -1,0 +1,7 @@
+<suite name="JavaSeleniumAutomation">
+    <test name="UITests">
+        <classes parallel="methods" thread-count="2">
+            <class name="SeleniumTest1"/>
+        </classes>
+    </test>
+</suite>
